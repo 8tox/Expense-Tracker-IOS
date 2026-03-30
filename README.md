@@ -18,4 +18,4 @@ A lightweight iOS expense tracker built with SwiftUI.
 ## Run
 1. Create a new iOS App project in Xcode named `ExpenseTracker`.
 2. Replace generated Swift files with these files.
-3. Build and run on iOS Simulator.
+3. Build and run on iOS Simulator
